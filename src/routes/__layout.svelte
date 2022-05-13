@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title> MovieDB | Svelte App </title>
+    <title> MovieDB | Delos-343 </title>
 </svelte:head>
 
 <Nav />
